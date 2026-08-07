@@ -1,11 +1,11 @@
- Technical Writing Portfolio
+# Technical Writing Portfolio
 
 Welcome to my technical writing portfolio.
 
 This repository showcases my work in technical writing, documentation,
 research, and clear communication of complex topics.
 
- About Me
+## About Me
 
 I am a Biomedical Engineering student with an interest in technical
 writing, research, documentation, and technology.
@@ -13,7 +13,7 @@ writing, research, documentation, and technology.
 I enjoy turning complex information into clear, useful, and easy-to-understand
 content.
 
- What I Can Do
+## What I Can Do
 
 - Technical documentation
 - User guides and tutorials
@@ -23,18 +23,18 @@ content.
 - Technical research
 - Clear explanation of complex topics
 
- Portfolio
+## Portfolio
 
- 1. Technical Article
+### 1. Technical Article
 Coming soon.
 
-2. User Guide
+### 2. User Guide
 Coming soon.
 
- 4. Technical Documentation
+### 3. Technical Documentation
 Coming soon.
 
- Contact
+## Contact
 
 For professional opportunities and collaborations, please contact me
 through my GitHub profile.
